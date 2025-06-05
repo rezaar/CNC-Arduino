@@ -18,7 +18,7 @@
 ## 🖼️ تصاویر پروژه
 
 ### 🔌 شماتیک مدار
-![Circuit Diagram](./Circuit%20new.png)
+![Circuit Diagram](./circuit new.jpg)
 
 ### 📦 تصویر نهایی پروژه مونتاژ شده
 ![Final Project](./final.jpg)
